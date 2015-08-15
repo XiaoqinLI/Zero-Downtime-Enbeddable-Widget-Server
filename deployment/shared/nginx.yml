@@ -1,0 +1,5 @@
+nginx:
+  image: nginx
+  restart: always
+  volumes:
+    - ./nginx:/etc/nginx/conf.d

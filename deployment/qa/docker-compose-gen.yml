@@ -1,0 +1,9 @@
+gen:
+  extends:
+    file: ../../shared/gen.yml
+    service: gen
+  build: ./
+  env_file:
+    - .env
+  environment:
+    - VIRTUAL_HOST=qa_gen

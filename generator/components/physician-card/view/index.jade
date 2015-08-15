@@ -1,0 +1,57 @@
+div#currlocmap
+img#doctorimg(src='http://www.mer.org/images/primary_care_physician.png')
+div#nametag
+  p Jessica Smith MD
+  p Family Medicine
+div.info
+  div.address
+    p 1234 circle street
+    p Austin, TX
+    p 512-123-1234
+  div.rating-review
+    div(style='width: ' + '90%').full-star
+    <br>
+    p "A great physician"
+div
+  div 
+    small cluster node ip : #{host}
+  div 
+    small app version: #{version}
+
+script.
+  var showMap = function() {   
+    function loadScript(src) {
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+      document.getElementsByTagName("head")[0].appendChild(script);
+      script.src = src;
+    };
+
+    window.initialize = function() {
+      var position = [30.426348, -97.741381];
+      var latLng = new google.maps.LatLng(position[0], position[1]);
+      var mapOptions = {
+        zoom: 16,
+        streetViewControl: false,
+        scaleControl: true,
+        mapTypeId: google.maps.MapTypeId.ROADMAP,
+        center: latLng
+      }
+
+      map = new google.maps.Map(document.getElementById('currlocmap'), mapOptions);
+
+      // Show the default red marker at the location
+      marker = new google.maps.Marker({
+        position: latLng,
+        map: map,
+        draggable: false,
+        animation: google.maps.Animation.DROP
+      });
+    };
+
+    loadScript('http://maps.googleapis.com/maps/api/js?v=3&sensor=false&callback=initialize');
+  };
+
+  showMap();
+
+

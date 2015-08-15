@@ -1,0 +1,64 @@
+fieldset {
+  margin: 0;
+}
+
+fieldset label {
+  font-weight: bold;
+}
+
+.field {
+  .clear;
+}
+
+.field > label {  // CRUX override
+  text-align: inherit;
+}
+
+fieldset.horizontal {
+  display: table;
+
+  .field {
+    display: table-row;
+    margin: 0;
+    zoom: 1;
+  }
+
+  label {
+    display: table-cell;
+    line-height: 32px;
+    text-align: right;
+    width: 1%;
+    vertical-align: top;
+
+    &:after {
+      content: '';
+      margin-right: 24px;
+    }
+  }  
+
+  input {
+    display: table-cell;
+    width: 100%;
+  }
+
+  &.panel {
+    padding-bottom: 15px;
+  }
+}
+
+legend {
+  font-size: 11px;
+  padding: 2px 0 0;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.option-list {
+  .opt-list;
+}

@@ -1,0 +1,71 @@
+.physician-card {
+  height: 472px;
+  width: 500px;
+  margin:0 auto;
+  border: solid 1px;
+}
+
+#currlocmap { 
+  position: absolute; 
+  height: 200px; 
+  width: 500px;  
+  margin:0 auto;
+  z-index: 0; /* Set z-index to 0 as it will be on a layer below the contact form */
+  border-bottom: solid 1px;
+}
+
+#doctorimg {
+  position: relative;
+  top: 60px;
+  width: 120px;
+  height: 140px;
+  z-index: 100;
+
+}
+
+#nametag {
+  margin: 0 auto;
+  margin-top: 60px;
+  height: 100px; 
+  width: 500px;
+  font-size: 32px;
+  border-bottom: solid 1px;
+}
+
+#nametag p {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  vertical-align: middle;
+}
+
+.info {
+  background-position: relative;
+  height: 165px;
+}
+
+.address {
+  padding-left: 10px; 
+  width: 220px;
+  height: 165px;
+  float: left;
+  font-size: 24px;
+  border-right: solid 1px;
+}
+
+.rating-review {
+  margin-top: 30px;
+  width: 200px;
+  font-size: 20px;
+  margin-right: 40px;
+  float: right;
+}
+
+
+.full-star {
+    height: 30px;
+    background-image: url(http://www.solidsignal.com/images%5CReviewStars5.png);
+    background-size: 200px 35px;
+    z-index: 1;
+    
+}

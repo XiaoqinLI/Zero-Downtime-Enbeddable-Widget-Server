@@ -1,0 +1,30 @@
+{
+  "name": "crimsonbase",
+  "version": "1.0.0",
+  "description": "Base scafold for Crimson based nodejs projects. Sister of mjolnir that follows 12 factor principles",
+  "main": "app.js",
+  "keywords": [
+    "crimson",
+    "abc",
+    "generator"
+  ],
+  "author": "Emmanuel (Manny)",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.2.1",
+    "body-parser": "^1.13.1",
+    "ejs": "^2.3.2",
+    "express": "^4.13.0",
+    "jade": "^1.11.0",
+    "lodash": "^3.9.3",
+    "method-override": "^2.3.3",
+    "mongoose": "^4.0.6",
+    "redis": "^0.12.1",
+    "mocha": "2.2.5",
+    "mocha-bamboo-reporter": "1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bamboo": "node node_modules/mocha/bin/mocha -R mocha-bamboo-reporter"
+  }
+}

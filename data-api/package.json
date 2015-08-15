@@ -1,0 +1,18 @@
+{
+    "name": "data-api",
+    "version": "0.0.1",
+    "description": "Rest Data api application",
+    "private": true,
+    "engines": {
+        "node": ">=0.10.0",
+        "npm": ">=1.1"
+    },
+    "dependencies": {
+        "express": "4.12.4",
+        "body-parser": "1.13.1",
+        "bson": "0.4.6",
+        "lodash": "3.9.3",
+        "mongoose": "4.0.6",
+        "mongoose-utils": "0.0.2"
+    }
+}

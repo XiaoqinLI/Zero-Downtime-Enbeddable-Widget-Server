@@ -1,0 +1,4 @@
+watchman:
+  image: jwilder/docker-gen
+  volumes:
+    - /var/run/docker.sock:/tmp/docker.sock

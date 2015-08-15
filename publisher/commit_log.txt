@@ -1,0 +1,14 @@
+b9402a6,XiaoqinLI,2 days ago,removed unnecessary script
+b9006c9,XiaoqinLI,2 days ago,styling readme
+05d22b8,XiaoqinLI,3 days ago,update ready
+68872d7,XiaoqinLI,4 days ago,documents on publisher
+34ece95,Emmanuel Narh,7 days ago,update to title
+ffd8b28,Emmanuel Narh,8 days ago,Adds docker file to publisher
+29635f4,Narh, Emmanuel,4 weeks ago,Merge pull request #3 in CCUI/publisher from feature/CCUI-4-initializing-the-publisher-site-repo to development
+220557d,XiaoqinLI,4 weeks ago,CCUI, delete widget stuff, which is moved to generator
+058c45c,XiaoqinLI,5 weeks ago,CCUI-4 modified js directory
+0eed3fd,XiaoqinLI,5 weeks ago,CCUI-4: modify url to generator running on my docker
+a7346d5,XiaoqinLI,5 weeks ago,CCUI-4: added some testing feature.
+9aa8189,Narh, Emmanuel,7 weeks ago,Merge pull request #2 in CCUI/publisher from feature/CCUI-4-initializing-the-publisher-site-repo to development
+e97dff0,XiaoqinLI,7 weeks ago,Added the initial version of publisher site template.
+6d0283d,XiaoqinLI,7 weeks ago,initial commit with readme and .ignore files

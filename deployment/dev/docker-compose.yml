@@ -1,0 +1,20 @@
+nginx:
+  extends:
+    file: ../shared/nginx.yml
+    service: nginx
+  volumes:
+    - ./nginx:/etc/nginx/conf.d
+  ports:
+    - "88:80"
+
+watchman:
+  extends:
+    file: ../shared/watchman.yml
+    service: watchman
+  command: -notify-sighup dev_nginx_1 -watch --only-published /etc/docker-gen/templates/nginx.tmpl /etc/nginx/conf.d/default.conf
+  links:
+    - nginx:nginx
+  volumes:
+    - ./nginx:/etc/docker-gen/templates
+  volumes_from:
+    - nginx

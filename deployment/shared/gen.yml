@@ -1,0 +1,8 @@
+gen:
+  restart: always
+  # build: ./
+  ports:
+    - "3333"
+  environment:
+    - outPort=8000
+    # - VIRTUAL_HOST=gen

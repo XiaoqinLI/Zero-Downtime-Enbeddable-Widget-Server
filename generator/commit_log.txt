@@ -1,0 +1,87 @@
+339fe15,XiaoqinLI,2 days ago,styled readme
+b68b9ba,XiaoqinLI,2 days ago,styling readme
+2f6c07a,XiaoqinLI,2 days ago,styling readme
+3460800,XiaoqinLI,2 days ago,styling readme
+b0693e4,XiaoqinLI,2 days ago,styling readme
+6b17803,XiaoqinLI,2 days ago,styling ready file
+852141c,XiaoqinLI,3 days ago,another typo
+bc9879d,XiaoqinLI,3 days ago,belongs to last commit
+e44dfec,XiaoqinLI,3 days ago,update readme in physician-card.
+4d752fb,XiaoqinLI,3 days ago,documenting physician card component
+2082681,XiaoqinLI,3 days ago,documenting generator.
+be29cfe,XiaoqinLI,4 days ago,added a doc (head only) for physician-card
+175ddf8,XiaoqinLI,4 days ago,update Readme in Generator.
+9b12084,Emmanuel Narh,6 days ago,changes to readme
+be70133,Narh, Emmanuel,7 days ago,Merge pull request #28 in CCUI/generator from development to master
+a08ec19,Emmanuel Narh,7 days ago,changes to readme
+6e02779,Narh, Emmanuel,7 days ago,Merge pull request #27 in CCUI/generator from development to master
+020e9bc,Emmanuel Narh,7 days ago,changes to meta data
+a7e6bf2,Narh, Emmanuel,7 days ago,Merge pull request #26 in CCUI/generator from development to master
+49acbb6,Emmanuel Narh,7 days ago,change verbiage to cluster node ip
+fba5807,Narh, Emmanuel,7 days ago,Merge pull request #25 in CCUI/generator from development to master
+8189a89,Emmanuel Narh,7 days ago,adds an env file to generator
+38e4670,Narh, Emmanuel,7 days ago,Merge pull request #24 in CCUI/generator from development to master
+6605ebc,Emmanuel Narh,7 days ago,updates to generator to create its own server
+14717d5,Narh, Emmanuel,8 days ago,Merge pull request #23 in CCUI/generator from development to master
+c9c5391,Emmanuel Narh,8 days ago,changes host notice
+0471b52,Narh, Emmanuel,8 days ago,Merge pull request #22 in CCUI/generator from development to master
+5cb392e,Emmanuel Narh,8 days ago,read me update
+4cb1b54,Narh, Emmanuel,8 days ago,Merge pull request #21 in CCUI/generator from development to master
+a1af111,Emmanuel Narh,8 days ago,read me update
+feac347,Narh, Emmanuel,8 days ago,Merge pull request #20 in CCUI/generator from development to master
+2b145ea,Emmanuel Narh,8 days ago,updates to read me
+3a5ec30,Narh, Emmanuel,8 days ago,Merge pull request #19 in CCUI/generator from development to master
+0a4765c,Emmanuel Narh,8 days ago,changes to readme
+10a985f,Narh, Emmanuel,8 days ago,Merge pull request #18 in CCUI/generator from development to master
+b4281bc,Emmanuel Narh,8 days ago,change to readme
+bebd67e,Narh, Emmanuel,8 days ago,Merge pull request #17 in CCUI/generator from development to master
+d342709,Emmanuel Narh,8 days ago,changes to readme
+a09ab3a,Narh, Emmanuel,8 days ago,Merge pull request #16 in CCUI/generator from development to master
+50e6a2e,Emmanuel Narh,8 days ago,update and test qa deploy
+7468f38,Narh, Emmanuel,8 days ago,Merge pull request #15 in CCUI/generator from development to master
+4d0e29c,Emmanuel Narh,8 days ago,update gen to auto populate ip address
+36f4d65,Narh, Emmanuel,9 days ago,Merge pull request #14 in CCUI/generator from development to master
+1c6780f,Emmanuel Narh,9 days ago,version update test
+12502c7,Narh, Emmanuel,9 days ago,Merge pull request #13 in CCUI/generator from development to master
+12f1c41,Emmanuel Narh,9 days ago,testing tags
+c15705c,Narh, Emmanuel,9 days ago,Merge pull request #12 in CCUI/generator from development to master
+be38d2e,Emmanuel Narh,9 days ago,testing tags
+f765851,Narh, Emmanuel,9 days ago,Merge pull request #11 in CCUI/generator from development to master
+2d2dd6d,Emmanuel Narh,9 days ago,testing tags
+2dc3d0c,Narh, Emmanuel,9 days ago,Merge pull request #10 in CCUI/generator from development to master
+164293c,Emmanuel Narh,9 days ago,Test tag commit
+35400fe,Narh, Emmanuel,9 days ago,Merge pull request #9 in CCUI/generator from development to master
+238ce6d,XiaoqinLI,9 days ago,bamboo testing
+c8b07db,Narh, Emmanuel,2 weeks ago,Merge pull request #8 in CCUI/generator from development to master
+9b6ada4,XiaoqinLI,2 weeks ago,no need for that.
+2c36d49,XiaoqinLI,2 weeks ago,started working on some tests
+1ee361b,Narh, Emmanuel,2 weeks ago,Merge pull request #7 in CCUI/generator from development to master
+401ea11,XiaoqinLI,2 weeks ago,bamboo testing
+3387415,XiaoqinLI,2 weeks ago,bamboo testing
+96dfba9,XiaoqinLI,2 weeks ago,bamboo testing
+4496530,XiaoqinLI,2 weeks ago,bamboo testing
+6522cc7,XiaoqinLI,2 weeks ago,bamboo testing
+acdb382,Narh, Emmanuel,2 weeks ago,Merge pull request #6 in CCUI/generator from development to master
+8f4a4b1,XiaoqinLI,2 weeks ago,bamboo updating test
+ed2a04f,Narh, Emmanuel,2 weeks ago,Merge pull request #5 in CCUI/generator from development to master
+6420650,XiaoqinLI,2 weeks ago,Testing Bamboo Mocha Test
+3c27e08,XiaoqinLI,2 weeks ago,testing bamboo test task
+e41b6ec,XiaoqinLI,2 weeks ago,Added some fake test into code base.
+453ed1d,Narh, Emmanuel,2 weeks ago,Merge pull request #4 in CCUI/generator from development to master
+f6e932f,XiaoqinLI,2 weeks ago,bamboo generator testing
+4e1fe08,XiaoqinLI,4 weeks ago,fixing bugs on env variable
+46c24ea,XiaoqinLI,4 weeks ago,fixing a bug
+0c781a4,XiaoqinLI,4 weeks ago,fixing a bug
+12ccd9a,XiaoqinLI,4 weeks ago,added outPort env to config so load balanced generator nodes could working well
+176af31,XiaoqinLI,4 weeks ago,complete the generator physician card components
+2bdf4c5,XiaoqinLI,5 weeks ago,played with url and id
+1cfd41f,XiaoqinLI,5 weeks ago,Added the real generator shell
+ff8a7d3,Narh, Emmanuel,6 weeks ago,Merge pull request #3 in CCUI/generator from feature/CCUI-8-populate-the-generator-repo-with-12base to development
+685b30b,XiaoqinLI,7 weeks ago,CCUI-8 27017 is default port for mongo, so better change it back to 3000+ for node.
+7e2f393,XiaoqinLI,7 weeks ago,CCUI-8 correct mongo and redis configuration
+7a5d233,Narh, Emmanuel,7 weeks ago,Merge pull request #2 in CCUI/generator from feature/CCUI-8-populate-the-generator-repo-with-12base to development
+062eed1,XiaoqinLI,7 weeks ago,modified .gitignore
+12de92b,XiaoqinLI,7 weeks ago,uncommitted node_module and ignore it.
+6dac441,Narh, Emmanuel,7 weeks ago,Merge pull request #1 in CCUI/generator from feature/CCUI-8-populate-the-generator-repo-with-12base to development
+47e00da,XiaoqinLI,7 weeks ago,push the base12 node shell to generator repo, slightly modified Readme file.
+1bafe88,XiaoqinLI,7 weeks ago,initial commit

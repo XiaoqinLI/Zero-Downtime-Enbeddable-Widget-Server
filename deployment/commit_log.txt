@@ -1,0 +1,50 @@
+03f77c9,XiaoqinLI,2 days ago,styled read file
+560d6bd,XiaoqinLI,2 days ago,styling readme
+f87f232,XiaoqinLI,3 days ago,get rid of some typo
+a0ef26a,XiaoqinLI,3 days ago,updated comments in update.sh for all branches
+251cf98,XiaoqinLI,3 days ago,updated inline comments in run.sh at all branches.
+3f4190c,XiaoqinLI,3 days ago,wrote a readme for deploy, and updated inline comments in run.sh in dev
+2575709,Emmanuel Narh,6 days ago,Update qa run file to add node_env
+1e06c3f,Emmanuel Narh,7 days ago,Update run.sh scripts
+6c8e4e9,Emmanuel Narh,7 days ago,adds node_env to run.sh
+e0fe910,Emmanuel Narh,7 days ago,Update deploy scripts
+4cccb53,Emmanuel Narh,7 days ago,updates deploy script
+1c06c67,Emmanuel Narh,7 days ago,changes deployment to use new generator changes
+6a319e9,Emmanuel Narh,8 days ago,adding exit code to failed updates
+0139f8b,Emmanuel Narh,8 days ago,Update ports
+aa2375e,Emmanuel Narh,8 days ago,updates
+fd9c181,Emmanuel Narh,8 days ago,testing qa deploy
+67a197f,Emmanuel Narh,8 days ago,update with update.sh
+9324726,Emmanuel Narh,8 days ago,Updates production deploy script
+d11ea54,Emmanuel Narh,9 days ago,updates deploy scripts
+1d05f39,Emmanuel Narh,9 days ago,do not shut down previous servers if new servers are not successfully created
+6f06502,Emmanuel Narh,9 days ago,deleting files not needed
+7ebfe85,Emmanuel Narh,9 days ago,updates latest and running tags
+bbcf8b4,Emmanuel Narh,9 days ago,took out running_tag line in run.sh
+01616ef,XiaoqinLI,9 days ago,modified update script
+5069d41,XiaoqinLI,9 days ago,added prod deployment starting scripts
+1515115,Emmanuel Narh,9 days ago,Updates to run file
+3c92676,XiaoqinLI,9 days ago,I don't think this line is needed
+94ce7c2,XiaoqinLI,9 days ago,added nginx host filter in the conf template
+4744ad4,Emmanuel Narh,10 days ago,updates
+0f349ae,Emmanuel Narh,10 days ago,Updates
+eb5f0f7,Emmanuel Narh,10 days ago,Additional cleanup
+1f0ed75,Emmanuel Narh,10 days ago,Reorg of files
+19d451c,XiaoqinLI,10 days ago,commented in cloning
+1a86d9c,XiaoqinLI,12 days ago,Beta version of Zero down time deployment
+a2a03da,XiaoqinLI,2 weeks ago,nginx testing
+8a59557,XiaoqinLI,2 weeks ago,refactored update script
+fab6314,XiaoqinLI,2 weeks ago,fixed a bug on stop and rm
+4a141e3,XiaoqinLI,2 weeks ago,update rm, only rm related containers
+2a19c8e,XiaoqinLI,2 weeks ago,testing nginx restart
+cc2fa4f,XiaoqinLI,2 weeks ago,banbom testing
+11ba63c,XiaoqinLI,2 weeks ago,bamboo testing
+bb3edbf,XiaoqinLI,2 weeks ago,bamboo testing
+bb43184,XiaoqinLI,2 weeks ago,run compose in background
+849e20e,XiaoqinLI,2 weeks ago,fixed a bug on docker stop
+dd3846d,XiaoqinLI,2 weeks ago,change nginx port number to 88
+ca83eb1,XiaoqinLI,2 weeks ago,added generator server repo in start script as well.
+b82e75d,XiaoqinLI,3 weeks ago,Finished nginx load balance debugging
+b5b0e17,XiaoqinLI,3 weeks ago,debugging in load balancer
+622aaa5,XiaoqinLI,4 weeks ago,finished first version of compose update, not sure if load balance is correct or not after update
+10baa02,XiaoqinLI,4 weeks ago,first deployment commit with compose yml and compose shell script
